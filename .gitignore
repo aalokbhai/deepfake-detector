@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+db.sqlite3
+staticfiles/
+media/*
+!media/.gitkeep
+.env
+venv/
+env/
+*.egg-info/
